@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vcngc96rpr-cell.github.io/ai-venture-command-center/sitemap.xml
